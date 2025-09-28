@@ -1,2 +1,2 @@
 # sbrcs-science-
-webprojects
+https://ramizuddin12.github.io/sbrcs-science-/
